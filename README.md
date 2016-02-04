@@ -62,7 +62,7 @@ How many sequence records are in the `SP1.fq` file?
 
 ## Question 5
 
-How many words on are lines containing the word `bloody` in `hamlet.txt`? (Hint:
+How many words are on lines containing the word `bloody` in `hamlet.txt`? (Hint:
 use `wc` to count words).
 
 ## Question 6
