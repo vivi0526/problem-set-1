@@ -81,7 +81,7 @@ How many unique chromosomes are in `genes.hg19.bed.gz`?
 
 ## Question 9
 
-How many intervals are associated with CTCF in `peaks.chr22.bed.gz`?
+How many intervals are associated with CTCF (**not** CTCFL) in `peaks.chr22.bed.gz`?
 
 ## Question 10
 
