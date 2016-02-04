@@ -54,7 +54,7 @@ How many sequence records are in the `sample.fa` file?
 
 ## Question 3
 
-How many sequence records are in the `sample.fa` file?
+How many unique CpG IDs are in `cpg.bed.gz`?
 
 ## Question 4
 
