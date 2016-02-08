@@ -7,7 +7,7 @@ set -o nounset
 
 STOP_ON_FAIL=1
 
-answerfile='answers.yml'
+answerfile='../answers.yml'
 if [[ ! -f $answerfile ]]; then
     echo "Missing 'answers.yml' file. Exiting."
     exit 1
