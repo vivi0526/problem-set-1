@@ -1,1 +1,3 @@
-script: bash .test/.tests.sh
+script:
+    - cd .test
+    - bash .tests.sh
